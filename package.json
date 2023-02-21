@@ -1,8 +1,8 @@
 {
   "name": "mc-vod-lib",
   "version": "1.0.0",
-  "description": "package for captions",
-  "main": "mc-vod.js",
+  "description": "common module across lambdas",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
