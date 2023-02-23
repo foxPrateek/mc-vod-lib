@@ -1,6 +1,6 @@
 module.exports = {
-    constants : require('./constants.js'),
-    snsUtils : require('./snsUtils.js'),
-    dbUtils : require('./dbUtils.js'),
-    s3Utils : require('./s3Utils.js')
+    constants : require('./lib/constants.js'),
+    snsUtils : require('./lib/snsUtils.js'),
+    dbUtils : require('./lib/dbUtils.js'),
+    s3Utils : require('./lib/s3Utils.js')
 };
